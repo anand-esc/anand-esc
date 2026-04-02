@@ -52,24 +52,24 @@
       <td width="50%">
         <h3 align="center">🤟 SignLingo</h3>
         <p align="center">Low-latency AI sign language recognition engine capturing real-time gestures.</p>
-        <p align="center"><a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=tokyonight&show_icons=true" /></a></p>
       </td>
       <td width="50%">
         <h3 align="center">⚖️ LawGeeks</h3>
         <p align="center">AI-powered document analysis system with fast streaming endpoints.</p>
-        <p align="center"><a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=tokyonight&show_icons=true" /></a></p>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <h3 align="center">⛩️ Anime Suggestions</h3>
         <p align="center">Engaging anime recommendation engine with an interactive mini-game.</p>
-        <p align="center"><a href="https://github.com/anand-esc/anime-suggestions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-esc&repo=anime-suggestions&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><a href="https://github.com/anand-esc/anime-suggestions"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=anime-suggestions&theme=tokyonight&show_icons=true" /></a></p>
       </td>
       <td width="50%">
         <h3 align="center">📄 Karvex Resume Architect</h3>
         <p align="center">Cutting-edge AI-driven platform for architecting professional resumes.</p>
-        <p align="center"><a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=tokyonight&show_icons=true" /></a></p>
       </td>
     </tr>
   </table>
@@ -80,10 +80,10 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="anand-esc's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="anand-esc's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
