@@ -38,7 +38,7 @@
       </details>
     </td>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/1n7DPJlX4Bv0vV8U3c/giphy.gif" width="250px" style="border-radius: 10px;">
+      <img src="https://media.giphy.com/media/iYK1uqbfkvDpe/giphy.gif" width="250px" style="border-radius: 10px;" alt="Killua Lightning">
     </td>
   </tr>
 </table>
@@ -49,26 +49,33 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="35"> Arsenal (Tech Stack)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Frontend Jutsu</b></td>
-      <td align="center"><b>Backend Jutsu</b></td>
-      <td align="center"><b>Ninja Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&perline=4" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,mongodb,mysql&perline=3" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=3" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.tenor.com/L-Ue5bI5XpIAAAAd/sukuna.gif" width="200px" style="border-radius: 10px;" alt="Sukuna">
+    </td>
+    <td width="70%" align="center">
+      <table>
+        <tr>
+          <td align="center"><b>Frontend Jutsu</b></td>
+          <td align="center"><b>Backend Jutsu</b></td>
+          <td align="center"><b>Ninja Tools</b></td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&perline=4" />
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,mongodb,mysql&perline=3" />
+          </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=3" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
@@ -82,12 +89,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=A9B1D6&icon_color=FF0000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=A9B1D6&sideNums=A9B1D6&sideLabels=A9B1D6" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true&title_color=FF0000&text_color=A9B1D6&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=A9B1D6&sideNums=A9B1D6&sideLabels=A9B1D6" alt="GitHub Streak" width="55%" />
 </div>
 
 <div align="center">
@@ -111,6 +113,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VdhTYle3b9a6jtO7FJ/giphy.gif" alt="See Ya" width="45%" style="border-radius: 15px;">
-  <p><code style="color: #FF0000; background-color: #0D1117; padding: 8px 15px; border-radius: 5px; font-size: 16px;">"See You Space Cowboy..."</code></p>
+  <img src="https://media.giphy.com/media/6yU5mNsZsCPPp1A1gU/giphy.gif" alt="Gojo Domain Expansion" width="100%" height="280" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 15px rgba(90, 41, 228, 0.5);">
+  <br><br>
+  <p><code style="color: #FFFFFF; background-color: #5A29E4; padding: 8px 15px; border-radius: 5px; font-size: 16px;">"Ryōiki Tenkai: Muryōkūsho" (Domain Expansion: Infinite Void)</code></p>
 </div>
