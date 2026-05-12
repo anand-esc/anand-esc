@@ -1,66 +1,96 @@
 <div align="center">
-  <img src="https://media.tenor.com/1-lS0pIin8wAAAAC/itachi-uchiha.gif" alt="Anime Banner" width="100%" height="250" style="border-radius: 15px; object-fit: cover; box-shadow: 0px 4px 15px rgba(255, 0, 0, 0.4);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Suryansh%20Anand&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+🧠;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Building+Low-Latency+Systems+⚡&font=Fira+Code&center=true&width=450&height=50&color=00B9FF&vCenter=true&size=22" />
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/suryansh-anand" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:suryansh.anand.dev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/suryansh.anand.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1">
+    </a>
+    <a href="mailto:suryanshanand2210@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/suryanshanand2210-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2">
+    </a>
+  </p>
+</div>
+
+---
+
+### 🚀 About Me & The Journey
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Anime Coding Dev" />
+
+- 🔭 I’m currently focused on **AI and Neural Networks** & **Generative AI** integrations.
+- ⚡ Architecting **Low-Latency AI Solutions** and real-time inference systems.
+- 🌱 Deepening my knowledge in advanced **Data Structures & Algorithms**.
+- 🤝 Looking to collaborate on Open Source **AI/ML** and **Full-stack** projects.
+- 💬 Ask me about: **Artificial Intelligence, Machine Learning, Python, FastAPI, and Modern Web**.
+- 📫 How to reach me: Hit me up on [LinkedIn](https://www.linkedin.com/in/suryansh-anand) or via email!
+
+<br />
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nextjs,fastapi,nodejs,express,mongodb,firebase,postgresql,mysql,aws,gcp,docker,git,vscode,linux,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark&perline=10" />
+  </a>
+</div>
+
+---
+
+### 🌟 Featured Masterpieces
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤟 SignLingo</h3>
+        <p align="center">Low-latency AI sign language recognition engine capturing real-time gestures.</p>
+        <p align="center"><a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚖️ LawGeeks</h3>
+        <p align="center">AI-powered document analysis system with fast streaming endpoints.</p>
+        <p align="center"><a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">⛩️ Anime Suggestions</h3>
+        <p align="center">Engaging anime recommendation engine with an interactive mini-game.</p>
+        <p align="center"><a href="https://github.com/anand-esc/anime-suggestions"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=anime-suggestions&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📄 Karvex Resume Architect</h3>
+        <p align="center">Cutting-edge AI-driven platform for architecting professional resumes.</p>
+        <p align="center"><a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="anand-esc's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=30&duration=4000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=Kon'nichiwa,+I'm+Suryansh+Anand!;Full-Stack+Ninja+&+Open+Source+Contributor;GSSoC+'26+Participant" alt="Typing SVG" />
-</div>
 
 <p align="center">
-  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC-'26-FF8C00?style=for-the-badge&logo=girlscript&logoColor=white&labelColor=1A1A1A" alt="GSSoC '26" /></a>
-  <img src="https://img.shields.io/badge/Otaku-Weeb-E34F26?style=for-the-badge&logo=crunchyroll&logoColor=white&labelColor=1A1A1A" alt="Anime" />
-  <img src="https://img.shields.io/badge/Domain-Expanded-5A29E4?style=for-the-badge&logo=anilist&logoColor=white&labelColor=1A1A1A" alt="Domain Expanded" />
+  <img src="https://komarev.com/ghpvc/?username=anand-esc&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
 </p>
-
-<br/>
-
-### 📜 My Ninja Way
-
-```text
-► Name       : Suryansh Anand
-► Class      : Full Stack Developer & Open Source Contributor
-► Guild      : GirlScript Summer of Code '26
-► Chakra     : Code, Coffee, and Anime
-```
-
-- 🔥 Currently slicing through issues as part of **GirlScript Summer of Code 2026**.
-- 🧠 I love exploring new technologies, honing my skills, and building cool open-source projects.
-- 🍙 When I'm out of stamina, watching Shonen & Seinen anime restores my HP.
-- ⚡ *"I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way."*
-
-<br/>
-
-### ⚔️ Arsenal (Tech Stack)
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,mongodb,docker,git,linux&perline=10" alt="Tech Stack" />
-</div>
-
-<br/>
-
-### 📊 Power Level (Stats)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anand-esc&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=A9B1D6&sideNums=A9B1D6&sideLabels=A9B1D6" alt="GitHub Streak" width="50%" />
-</div>
-
-<br/>
-
-### 🦇 Let's Connect in the Shadows
-
-<div align="center">
-  <a href="https://twitter.com/ananad_surya6511"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1A1A1A" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/suryansh-anand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn"></a>
-  <a href="mailto:suryansh.anand.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email"></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/6yU5mNsZsCPPp1A1gU/giphy.gif" alt="Gojo Domain Expansion" width="60%" style="border-radius: 15px;">
-  <p><code style="color: #A9B1D6; background-color: #0D1117; padding: 5px 10px; border-radius: 5px;">"Domain Expansion: Infinite Void"</code></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
 </div>
