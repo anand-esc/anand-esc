@@ -1,96 +1,141 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Suryansh%20Anand&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" width="100%" />
+  <!-- Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Suryansh%20Anand&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+🧠;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Building+Low-Latency+Systems+⚡&font=Fira+Code&center=true&width=450&height=50&color=00B9FF&vCenter=true&size=22" />
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+🧠;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Building+Low-Latency+Systems+⚡&font=Fira+Code&weight=600&center=true&width=500&height=60&color=00B9FF&vCenter=true&size=24" />
   
+  <br>
+
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/suryansh-anand" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:suryansh.anand.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/suryansh.anand.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1">
     </a>
     <a href="mailto:suryanshanand2210@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/suryanshanand2210-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2">
+      <img src="https://img.shields.io/badge/Secondary_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2">
     </a>
   </p>
 </div>
 
----
-
-### 🚀 About Me & The Journey
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Anime Coding Dev" />
-
-- 🔭 I’m currently focused on **AI and Neural Networks** & **Generative AI** integrations.
-- ⚡ Architecting **Low-Latency AI Solutions** and real-time inference systems.
-- 🌱 Deepening my knowledge in advanced **Data Structures & Algorithms**.
-- 🤝 Looking to collaborate on Open Source **AI/ML** and **Full-stack** projects.
-- 💬 Ask me about: **Artificial Intelligence, Machine Learning, Python, FastAPI, and Modern Web**.
-- 📫 How to reach me: Hit me up on [LinkedIn](https://www.linkedin.com/in/suryansh-anand) or via email!
-
-<br />
-
----
-
-### 🛠️ Tech Stack & Arsenal
+<br/>
 
 <div align="center">
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nextjs,fastapi,nodejs,express,mongodb,firebase,postgresql,mysql,aws,gcp,docker,git,vscode,linux,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark&perline=10" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="80%">
 </div>
 
----
+<br/>
+
+### 🚀 The Journey & Mission
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Anime Coding Dev" style="border-radius: 15px; margin-left: 20px;" />
+
+- 🔭 I’m currently heavily focused on **AI, Neural Networks**, and cutting-edge **Generative AI** integrations.
+- ⚡ Architecting **Low-Latency AI Solutions** and real-time inference systems that scale.
+- 🌱 Continuously deepening my knowledge in advanced **Data Structures & Algorithms**.
+- 🤝 Always looking to collaborate on ambitious Open Source **AI/ML** and **Full-stack** projects.
+- 💬 Ask me about: **Artificial Intelligence, Machine Learning, Python, FastAPI, and Modern Web architectures**.
+- 📫 Reach out to me: Hit me up on [LinkedIn](https://www.linkedin.com/in/suryansh-anand) or drop me an email!
+
+<br clear="both"/>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="80%">
+</div>
+
+<br/>
+
+### 🛠️ Arsenal (Tech Stack)
+
+<div align="center">
+  <h4><b>🧠 AI & Data Science</b></h4>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" />
+  <br/><br/>
+  
+  <h4><b>⚡ Backend & Systems</b></h4>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,java,c,cpp&theme=dark" />
+  <br/><br/>
+  
+  <h4><b>🌐 Frontend Mastery</b></h4>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind&theme=dark" />
+  <br/><br/>
+
+  <h4><b>☁️ Cloud & Databases</b></h4>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,mongodb,postgres,mysql,firebase&theme=dark" />
+  <br/><br/>
+
+  <h4><b>⚙️ Tools & OS</b></h4>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="80%">
+</div>
+
+<br/>
 
 ### 🌟 Featured Masterpieces
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
         <h3 align="center">🤟 SignLingo</h3>
-        <p align="center">Low-latency AI sign language recognition engine capturing real-time gestures.</p>
-        <p align="center"><a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><i>Low-latency AI sign language recognition engine.</i></p>
+        <a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" /></a>
       </td>
-      <td width="50%">
+      <td width="50%" align="center" style="border: none;">
         <h3 align="center">⚖️ LawGeeks</h3>
-        <p align="center">AI-powered document analysis system with fast streaming endpoints.</p>
-        <p align="center"><a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><i>AI-powered document analysis system.</i></p>
+        <a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" /></a>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
+        <br/>
         <h3 align="center">⛩️ Anime Suggestions</h3>
-        <p align="center">Engaging anime recommendation engine with an interactive mini-game.</p>
-        <p align="center"><a href="https://github.com/anand-esc/anime-suggestions"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=anime-suggestions&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><i>Interactive anime recommendation engine.</i></p>
+        <a href="https://github.com/anand-esc/anime-suggestions"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=anime-suggestions&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" /></a>
       </td>
-      <td width="50%">
+      <td width="50%" align="center" style="border: none;">
+        <br/>
         <h3 align="center">📄 Karvex Resume Architect</h3>
-        <p align="center">Cutting-edge AI-driven platform for architecting professional resumes.</p>
-        <p align="center"><a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><i>AI-driven platform for architecting resumes.</i></p>
+        <a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" /></a>
       </td>
     </tr>
   </table>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="80%">
+</div>
+
+<br/>
 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="anand-esc's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="anand-esc's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anand-esc&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=anand-esc&label=Profile%20Views&color=00B9FF&style=for-the-badge" alt="Profile Views">
 </p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
 </div>
