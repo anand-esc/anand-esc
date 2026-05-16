@@ -25,7 +25,7 @@
 
 ### 🚀 The Journey & Mission
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Anime Coding Dev" style="border-radius: 15px; margin-left: 20px;" />
+<img align="right" width="350" src="https://github.com/github/explore/raw/main/topics/artificial-intelligence/artificial-intelligence.png" alt="AI Coding Dev" style="border-radius: 15px; margin-left: 20px;" />
 
 - 🔭 I’m currently heavily focused on **AI, Neural Networks**, and cutting-edge **Generative AI** integrations.
 - ⚡ Architecting **Low-Latency AI Solutions** and real-time inference systems that scale.
@@ -47,23 +47,33 @@
 
 <div align="center">
   <h4><b>🧠 AI & Data Science</b></h4>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" style="display:block; margin: 0 auto;" />
+  </p>
   <br/><br/>
   
   <h4><b>⚡ Backend & Systems</b></h4>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,java,c,cpp&theme=dark" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,java,c,cpp&theme=dark" style="display:block; margin: 0 auto;" />
+  </p>
   <br/><br/>
   
   <h4><b>🌐 Frontend Mastery</b></h4>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind&theme=dark" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind&theme=dark" style="display:block; margin: 0 auto;" />
+  </p>
   <br/><br/>
 
   <h4><b>☁️ Cloud & Databases</b></h4>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,mongodb,postgres,mysql,firebase&theme=dark" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,mongodb,postgres,mysql,firebase&theme=dark" style="display:block; margin: 0 auto;" />
+  </p>
   <br/><br/>
 
   <h4><b>⚙️ Tools & OS</b></h4>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" style="display:block; margin: 0 auto;" />
+  </p>
 </div>
 
 <br/>
@@ -123,6 +133,13 @@
   <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
+
+<br/>
+
+### 🌱 GSSoC 2026 Contributor
+- 🏅 Selected as a contributor for **GSSoC 2026**.
+- 🛠️ Building open-source AI tools, model deployment workflows, and documentation for the community.
+- 🤝 Actively mentoring and supporting new contributors through project onboarding.
 
 <br/>
 
