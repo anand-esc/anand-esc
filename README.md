@@ -9,15 +9,9 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/suryansh-anand" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:suryansh.anand.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1">
-    </a>
-    <a href="mailto:suryanshanand2210@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Secondary_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2">
-    </a>
+    <a href="https://www.linkedin.com/in/suryansh-anand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:suryansh.anand.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1"></a>
+    <a href="mailto:suryanshanand2210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Secondary_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2"></a>
   </p>
 </div>
 
