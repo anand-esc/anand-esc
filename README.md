@@ -40,37 +40,6 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════ -->
-<!--                  WORK EXPERIENCE                     -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## `cat experience.json`
-
-```json
-[
-  {
-    "role": "AI for Sustainability Intern",
-    "org": "1M1B Foundation (AICTE + IBM)",
-    "duration": "May 2026 – Present",
-    "focus": "Generative AI x UN SDGs, IBM Granite models, IBM SkillBuild, Responsible AI"
-  },
-  {
-    "role": "Virtual Intern — ServiceNow Platform & Agentic AI",
-    "org": "ServiceNow (via SmartBridge)",
-    "duration": "Apr 2026 – May 2026",
-    "focus": "Enterprise automation, GlideScript, ATF, Agentic AI in enterprise workflows"
-  },
-  {
-    "role": "Python Developer Intern",
-    "org": "CodexIntern",
-    "duration": "Aug 2025 – Sep 2025",
-    "focus": "End-to-end data pipelines, regression models, Matplotlib dashboards"
-  }
-]
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════ -->
 <!--                LEADERSHIP / RECOGNITION              -->
 <!-- ═══════════════════════════════════════════════════ -->
 
