@@ -103,20 +103,18 @@ Open Source Contributor in the **AI Agents Track** — building and shipping pro
 
 ## 🛸 Featured Builds
 
-🌟 Featured Builds
-
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3 align="center">🏦 FinFlow AI</h3>
         <p align="center">Multi-agent fintech platform automating education-loan onboarding with LangChain &amp; LangGraph.</p>
-        <p align="center"><a href="https://github.com/anand-esc/FinFlow-AI"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=FinFlow-AI&theme=tokyonight&show_icons=true" /></a></p>
+        <p align="center"><a href="https://github.com/anand-esc/FinFlow"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=FinFlow&theme=tokyonight&show_icons=true" /></a></p>
       </td>
       <td width="50%">
-        <h3 align="center">🛡️ Raksha.ai</h3>
-        <p align="center">AI-powered women's safety PWA with A* safe routing over live crime heatmaps.</p>
-        <p align="center"><a href="https://github.com/anand-esc/Raksha-ai"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=Raksha-ai&theme=tokyonight&show_icons=true" /></a></p>
+        <h3 align="center">📄 KARVEX Resume Architect</h3>
+        <p align="center">Cutting-edge AI-driven platform for architecting professional resumes.</p>
+        <p align="center"><a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=tokyonight&show_icons=true" /></a></p>
       </td>
     </tr>
     <tr>
