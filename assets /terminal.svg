@@ -1,0 +1,98 @@
+<svg width="680" height="630" viewBox="0 0 680 630" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',monospace">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .topbar { fill: #161b22; }
+      .dot { fill: #30363d; }
+      .term { fill: #c9d1d9; font-size: 14px; }
+      .blue { fill: #58a6ff; }
+      .green { fill: #7ee787; }
+      .purple { fill: #d2a8ff; }
+      .orange { fill: #ffa657; }
+      .gray { fill: #8b949e; }
+      .pill-text { font-size: 12px; font-weight: 600; }
+
+      .line { opacity: 0; }
+      .cursor { fill: #c9d1d9; animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+
+      @keyframes reveal { from { opacity: 0; } to { opacity: 1; } }
+
+      .l1  { animation: reveal 0.4s ease forwards 0.2s; }
+      .l2  { animation: reveal 0.4s ease forwards 0.6s; }
+      .l3  { animation: reveal 0.4s ease forwards 1.6s; }
+      .l4  { animation: reveal 0.4s ease forwards 2.6s; }
+      .l5  { animation: reveal 0.4s ease forwards 3.6s; }
+      .l6  { animation: reveal 0.4s ease forwards 4.8s; }
+      .l7  { animation: reveal 0.4s ease forwards 5.8s; }
+      .l8  { animation: reveal 0.4s ease forwards 6.8s; }
+      .l9  { animation: reveal 0.4s ease forwards 8.0s; }
+      .l10 { animation: reveal 0.4s ease forwards 9.0s; }
+      .l11 { animation: reveal 0.4s ease forwards 10.0s; }
+      .l12 { animation: reveal 0.4s ease forwards 11.2s; }
+      .l13 { animation: reveal 0.4s ease forwards 12.2s; }
+      .l14 { animation: reveal 0.4s ease forwards 13.2s; }
+      .l15 { animation: reveal 0.4s ease forwards 14.2s; }
+      .l16 { animation: reveal 0.4s ease forwards 15.4s; }
+      .l17 { animation: reveal 0.4s ease forwards 16.6s; }
+      .l18 { animation: reveal 0.4s ease forwards 17.6s; }
+      .badges { animation: reveal 0.5s ease forwards 18.6s; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="680" height="630" rx="10"/>
+  <rect class="topbar" width="680" height="32" rx="10"/>
+  <rect class="topbar" y="20" width="680" height="12"/>
+  <circle class="dot" cx="22" cy="16" r="6"/>
+  <circle class="dot" cx="42" cy="16" r="6"/>
+  <circle class="dot" cx="62" cy="16" r="6"/>
+  <text x="340" y="21" text-anchor="middle" class="gray" font-size="12">about_me.txt — bash</text>
+
+  <g transform="translate(24,58)">
+    <text class="term gray line l1" y="0">┌──(suryansh@arch)-[~/portfolio]</text>
+    <text class="term green line l2" y="20">└─$ cat about_me.txt</text>
+
+    <text class="term line l3" y="52">I'm a <tspan class="blue">Backend AI Engineer</tspan>, <tspan class="blue">ML Researcher</tspan>, and a</text>
+    <text class="term line l4" y="72">Google Gemini Student Ambassador '26 — obsessed</text>
+    <text class="term line l5" y="92">with <tspan class="purple">Agentic AI</tspan> systems, <tspan class="purple">RAG pipelines</tspan>, and</text>
+    <text class="term line l6" y="112">fine-tuning <tspan class="purple">LLMs</tspan> that actually solve real problems.</text>
+
+    <text class="term line l7" y="144">My entire stack is anchored <tspan class="orange">in</tspan> Python, Linux, and</text>
+    <text class="term line l8" y="164">the Gemini API. I don'<tspan class="orange">t</tspan> just use tools — I want to</text>
+    <text class="term line l9" y="184">own and understand every moving part of the</text>
+    <text class="term line l10" y="204">systems I build.</text>
+
+    <text class="term line l11" y="236">That'<tspan class="blue">s</tspan> why I ditched the "standard" OS experience.</text>
+    <text class="term line l12" y="256">I moved fully into the Linux ecosystem — hopping</text>
+    <text class="term line l13" y="276">across <tspan class="green">Fedora</tspan>, <tspan class="green">EndeavourOS (Arch)</tspan>, and <tspan class="green">Ubuntu</tspan> — to</text>
+    <text class="term line l14" y="296">shape my environment exactly the way I think.</text>
+
+    <text class="term line l15" y="328">My approach: iterate fast, <tspan class="orange">break</tspan> things on</text>
+    <text class="term line l16" y="348">purpose, fix them properly, and never repeat the</text>
+    <text class="term line l17" y="368">same mistake twice. The goal is sustainable AI</text>
+    <text class="term line l18" y="388">infrastructure that solves problems that matter.</text>
+
+    <text class="term gray line l18" y="420">┌──(suryansh@arch)-[~/portfolio]</text>
+    <text class="term green line l18" y="440">└─$ <tspan class="cursor" dx="6">▌</tspan></text>
+  </g>
+
+  <g class="badges" transform="translate(24,500)">
+    <rect width="142" height="30" rx="6" fill="#21262d" stroke="#30363d"/>
+    <text x="14" y="20" class="gray pill-text">CURRENTLY BUILDING</text>
+
+    <rect x="150" width="242" height="30" rx="6" fill="#1f6feb" opacity="0.15" stroke="#1f6feb"/>
+    <text x="166" y="20" class="blue pill-text">AGENTIC AI / RAG SYSTEMS</text>
+
+    <rect y="42" width="92" height="30" rx="6" fill="#21262d" stroke="#30363d"/>
+    <text x="14" y="62" class="gray pill-text">DAILY DRIVER</text>
+
+    <rect x="100" y="42" width="252" height="30" rx="6" fill="#9e6a03" opacity="0.18" stroke="#d29922"/>
+    <text x="116" y="62" class="orange pill-text">LINUX · FEDORA · ARCH · UBUNTU</text>
+
+    <rect y="84" width="160" height="30" rx="6" fill="#21262d" stroke="#30363d"/>
+    <text x="14" y="104" class="gray pill-text">LOOKING TO COLLAB</text>
+
+    <rect x="168" y="84" width="224" height="30" rx="6" fill="#3fb950" opacity="0.15" stroke="#3fb950"/>
+    <text x="184" y="104" class="green pill-text">AI/ML &amp; FULL-STACK PROJECTS</text>
+  </g>
+</svg>
