@@ -57,10 +57,10 @@
     <text class="term line l5" y="92">with <tspan class="purple">Agentic AI</tspan> systems, <tspan class="purple">RAG pipelines</tspan>, and</text>
     <text class="term line l6" y="112">fine-tuning <tspan class="purple">LLMs</tspan> that actually solve real problems.</text>
 
-    <text class="term line l7" y="144">My entire stack is anchored <tspan class="orange">in</tspan> Python, Linux, and</text>
-    <text class="term line l8" y="164">the Gemini API. I don'<tspan class="orange">t</tspan> just use tools — I want to</text>
-    <text class="term line l9" y="184">own and understand every moving part of the</text>
-    <text class="term line l10" y="204">systems I build.</text>
+    <text class="term line l7" y="144">I'm <tspan class="orange">proficient in</tspan> LangChain, LangGraph,</text>
+    <text class="term line l8" y="164">FastAPI, React, and the Google Gemini API. I don'<tspan class="orange">t</tspan></text>
+    <text class="term line l9" y="184">just use tools — I want to own and understand</text>
+    <text class="term line l10" y="204">every moving part of the systems I build.</text>
 
     <text class="term line l11" y="236">That'<tspan class="blue">s</tspan> why I ditched the "standard" OS experience.</text>
     <text class="term line l12" y="256">I moved fully into the Linux ecosystem — hopping</text>
