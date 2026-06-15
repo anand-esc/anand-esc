@@ -103,75 +103,35 @@ Open Source Contributor in the **AI Agents Track** — building and shipping pro
 
 ## 🛸 Featured Builds
 
+🌟 Featured Builds
+
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 FinFlow AI
-**Multi-Agent Fintech Platform**
-
-`LangChain` `LangGraph` `FastAPI` `OpenAI API` `Python`
-
-Production-grade multi-agent platform automating education-loan onboarding — autonomous agents for document verification, credit risk, and RBI-aligned compliance.
-
-</td>
-<td width="50%">
-
-### 📄 KARVEX
-**AI-Powered Resume Builder**
-
-`React` `Firebase` `Gemini 1.5 API` `jsPDF`
-
-Analyzes job descriptions via Gemini 1.5 to rewrite resumes for max ATS match, with real-time in-browser PDF rendering. *Presented at Tech Manthan 2026.*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤟 SignLingo
-**AI-Powered ISL Learning Platform**
-
-`MediaPipe` `FastAPI` `KNN` `Gemini 1.5` `Supabase`
-
-Real-time Indian Sign Language tutor combining 3D hand-tracking with a RAG-powered AI tutor — addressing accessibility (SDG 10).
-
-</td>
-<td width="50%">
-
-### 🛡️ Raksha.ai
-**Women's Safety PWA**
-
-`React PWA` `A* Pathfinding` `Gemini API` `Crime Heatmaps`
-
-Real-time safe-routing PWA using A* pathfinding over live crime heatmaps, with a Gemini legal chatbot and live-audio SOS panic system.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ ScrollHouse Agentic System
-**Multi-Agent Business Automation**
-
-`LangGraph` `LangChain` `FastAPI` `Python`
-
-Stateful, resumable multi-agent platform automating end-to-end business workflows with persistent memory across agent handoffs.
-
-</td>
-<td width="50%">
-
-### ⚖️ LawGeeks
-**AI Legal Document Assistant**
-
-`Python` `Gemini REST API` `RAG`
-
-Lightweight pure-Python RAG pipeline that demystifies legal documents — built for minimal infrastructure, max accessibility.
-
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏦 FinFlow AI</h3>
+        <p align="center">Multi-agent fintech platform automating education-loan onboarding with LangChain &amp; LangGraph.</p>
+        <p align="center"><a href="https://github.com/anand-esc/FinFlow-AI"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=FinFlow-AI&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛡️ Raksha.ai</h3>
+        <p align="center">AI-powered women's safety PWA with A* safe routing over live crime heatmaps.</p>
+        <p align="center"><a href="https://github.com/anand-esc/Raksha-ai"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=Raksha-ai&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤟 SignLingo</h3>
+        <p align="center">Real-time ISL learning platform combining 3D hand-tracking with a RAG-powered AI tutor.</p>
+        <p align="center"><a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚖️ LawGeeks</h3>
+        <p align="center">Lightweight pure-Python RAG pipeline that demystifies legal documents.</p>
+        <p align="center"><a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=tokyonight&show_icons=true" /></a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
