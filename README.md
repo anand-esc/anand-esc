@@ -134,14 +134,12 @@
 
 ## System Metrics
 
+## System Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anand-esc&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&sideNums=ffffff&dates=999999" height="170"/>
-  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anand-esc&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff" height="165"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&sideNums=ffffff&dates=999999" height="165"/>
   <br/><br/>
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" height="165"/>
 </div>
 
 ---
