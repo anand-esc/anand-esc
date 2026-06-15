@@ -1,105 +1,335 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Suryansh%20Anand&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+🧠;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Building+Low-Latency+Systems+⚡&font=Fira+Code&center=true&width=450&height=50&color=00B9FF&vCenter=true&size=22" />
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/suryansh-anand" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:suryansh.anand.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/suryansh.anand.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1">
-    </a>
-    <a href="mailto:suryanshanand2210@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/suryanshanand2210-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2">
-    </a>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Suryansh%20Anand&fontSize=80&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Linux%20Native&descAlignY=55&descAlign=50&fontColor=00F5D4&animation=fadeIn" width="100%"/>
 
----
+<a href="https://github.com/anand-esc">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%3E+sudo+pacman+-S+suryansh-anand;%3E+whoami+%E2%86%92+AI%2FML+Engineer;%3E+building+agentic+systems+that+ship;%3E+powered+by+coffee+%26+Arch%2FFedora+%2F%2F+btw;%3E+open+for+collabs+%E2%80%94+AI%2C+RAG%2C+Full-Stack&font=JetBrains+Mono&center=true&width=600&height=60&color=00F5D4&vCenter=true&size=24&pause=1500&duration=3000"/>
+</a>
 
-### 🚀 About Me & The Journey
+<br/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Anime Coding Dev" />
+<a href="https://www.linkedin.com/in/suryansh-anand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:suryansh.anand.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-Cuttack%2C%20Odisha%2C%20India-00F5D4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-- 🔭 I’m currently focused on **AI and Neural Networks** & **Generative AI** integrations.
-- ⚡ Architecting **Low-Latency AI Solutions** and real-time inference systems.
-- 🌱 Deepening my knowledge in advanced **Data Structures & Algorithms**.
-- 🤝 Looking to collaborate on Open Source **AI/ML** and **Full-stack** projects.
-- 💬 Ask me about: **Artificial Intelligence, Machine Learning, Python, FastAPI, and Modern Web**.
-- 📫 How to reach me: Hit me up on [LinkedIn](https://www.linkedin.com/in/suryansh-anand) or via email!
-
-<br />
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,react,nextjs,fastapi,nodejs,express,mongodb,firebase,postgresql,mysql,aws,gcp,docker,git,vscode,linux,tensorflow,pytorch,sklearn,pandas,numpy&theme=dark&perline=10" />
-  </a>
-</div>
-
----
-
-### 🌟 Featured Masterpieces
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤟 SignLingo</h3>
-        <p align="center">Low-latency AI sign language recognition engine capturing real-time gestures.</p>
-        <p align="center"><a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=tokyonight&show_icons=true" /></a></p>
-      </td>
-      <td width="50%">
-        <h3 align="center">⚖️ LawGeeks</h3>
-        <p align="center">AI-powered document analysis system with fast streaming endpoints.</p>
-        <p align="center"><a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=tokyonight&show_icons=true" /></a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">⛩️ Anime Suggestions</h3>
-        <p align="center">Engaging anime recommendation engine with an interactive mini-game.</p>
-        <p align="center"><a href="https://github.com/anand-esc/anime-suggestions"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=anime-suggestions&theme=tokyonight&show_icons=true" /></a></p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📄 Karvex Resume Architect</h3>
-        <p align="center">Cutting-edge AI-driven platform for architecting professional resumes.</p>
-        <p align="center"><a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=tokyonight&show_icons=true" /></a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="anand-esc's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
-<br/>
-
-### 🌱 GSSoC 2026 Contributor
-- 🏅 Selected as a contributor for **GSSoC 2026**.
-- 🛠️ Building open-source AI tools, model deployment workflows, and documentation for the community.
-- 🤝 Actively mentoring and supporting new contributors through project onboarding.
-
-<br/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                    ANIMATED BANNERS                  -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anand-esc&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/badge/🚀_Google_Gemini_Student_Ambassador_'26-302b63?style=for-the-badge&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/🌐_GSSoC'26_Open_Source_Contributor-302b63?style=for-the-badge&labelColor=0f0c29"/>
 </p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--               LIVE TERMINAL "ABOUT ME"               -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 🧠 `whoami`
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```bash
+┌──(suryansh@arch)-[~/portfolio]
+└─$ cat about_me.txt
+
+I'm a Backend AI Engineer, ML Researcher, and a
+Google Gemini Student Ambassador '26 — obsessed
+with Agentic AI systems, RAG pipelines, and
+fine-tuning LLMs that actually solve real problems.
+
+My entire stack is anchored in Python, Linux, and
+the Gemini API. I don't just use tools — I want to
+own and understand every moving part of the systems
+I build.
+
+That's why I ditched the "standard" OS experience.
+I moved fully into the Linux ecosystem — hopping
+across Fedora, EndeavourOS (Arch), and Ubuntu — to
+shape my environment exactly the way I think.
+
+My approach is simple: iterate fast, break things
+on purpose, fix them properly, and never repeat
+the same mistake twice. The end goal isn't just
+"working code" — it's sustainable AI infrastructure
+that solves problems that matter.
+
+┌──(suryansh@arch)-[~/portfolio]
+└─$ █
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="100%" style="border-radius:12px"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Currently_Building-Agentic_AI_%2F_RAG_Systems-00F5D4?style=flat-square&logo=robot&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Daily_Driver-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Looking_to_Collab-AI%2FML_%26_Full--Stack-FF6B6B?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  WORK EXPERIENCE                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 💼 `cat experience.json`
+
+```json
+[
+  {
+    "role": "AI for Sustainability Intern",
+    "org": "1M1B Foundation (AICTE + IBM)",
+    "duration": "May 2026 – Present",
+    "focus": "Generative AI x UN SDGs, IBM Granite models, IBM SkillBuild, Responsible AI"
+  },
+  {
+    "role": "Virtual Intern — ServiceNow Platform & Agentic AI",
+    "org": "ServiceNow (via SmartBridge)",
+    "duration": "Apr 2026 – May 2026",
+    "focus": "Enterprise automation, GlideScript, ATF, Agentic AI in enterprise workflows"
+  },
+  {
+    "role": "Python Developer Intern",
+    "org": "CodexIntern",
+    "duration": "Aug 2025 – Sep 2025",
+    "focus": "End-to-end data pipelines, regression models, Matplotlib dashboards"
+  }
+]
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                LEADERSHIP / RECOGNITION              -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 🏆 Recognition & Community
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🌟 Google Gemini Student Ambassador '26
+
+Selected for the **2026 cohort** of Google's Gemini Student Ambassador programme — representing **Sri Sri University** as a campus AI evangelist. Driving AI literacy by embedding **Gemini, Google Canvas, and Veo** into student workflows, on the principle of *"by the students, for the students."*
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 GirlScript Summer of Code (GSSoC) '26
+
+Open Source Contributor in the **AI Agents Track** — building and shipping production-ready apps in **RAG architectures, LLM applications, and full-stack engineering**. Reviewing PRs, writing docs, and onboarding new contributors.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                  -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 🛸 Featured Builds
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 FinFlow AI
+**Multi-Agent Fintech Platform**
+
+`LangChain` `LangGraph` `FastAPI` `OpenAI API` `Python`
+
+Production-grade multi-agent platform automating education-loan onboarding — autonomous agents for document verification, credit risk, and RBI-aligned compliance.
+
+</td>
+<td width="50%">
+
+### 📄 KARVEX
+**AI-Powered Resume Builder**
+
+`React` `Firebase` `Gemini 1.5 API` `jsPDF`
+
+Analyzes job descriptions via Gemini 1.5 to rewrite resumes for max ATS match, with real-time in-browser PDF rendering. *Presented at Tech Manthan 2026.*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤟 SignLingo
+**AI-Powered ISL Learning Platform**
+
+`MediaPipe` `FastAPI` `KNN` `Gemini 1.5` `Supabase`
+
+Real-time Indian Sign Language tutor combining 3D hand-tracking with a RAG-powered AI tutor — addressing accessibility (SDG 10).
+
+</td>
+<td width="50%">
+
+### 🛡️ Raksha.ai
+**Women's Safety PWA**
+
+`React PWA` `A* Pathfinding` `Gemini API` `Crime Heatmaps`
+
+Real-time safe-routing PWA using A* pathfinding over live crime heatmaps, with a Gemini legal chatbot and live-audio SOS panic system.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ ScrollHouse Agentic System
+**Multi-Agent Business Automation**
+
+`LangGraph` `LangChain` `FastAPI` `Python`
+
+Stateful, resumable multi-agent platform automating end-to-end business workflows with persistent memory across agent handoffs.
+
+</td>
+<td width="50%">
+
+### ⚖️ LawGeeks
+**AI Legal Document Assistant**
+
+`Python` `Gemini REST API` `RAG`
+
+Lightweight pure-Python RAG pipeline that demystifies legal documents — built for minimal infrastructure, max accessibility.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                INTERACTIVE SNAKE GAME                -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anand-esc/anand-esc/output/github-contribution-grid-snake-dark.svg" alt="snake game contribution graph"/>
+
+> *Yes, that snake is eating my actual commit history. Add the workflow below to make it eat yours too.*
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                        -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 📊 System Metrics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" height="170"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anand-esc&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5D4&line=00F5D4&point=FF6B6B" width="98%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  TECH ARSENAL                        -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 🧰 The Toolbox
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark"/>
+
+**AI / ML / Agentic**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+
+**Web & Full Stack**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,firebase,supabase&theme=dark"/>
+
+**Cloud, DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,jenkins,vscode,arduino&theme=dark"/>
+
+**Operating Systems** — *the real flex*
+<br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Arch](https://img.shields.io/badge/EndeavourOS_(Arch)-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                  CERTIFICATIONS                      -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>📜 Certifications & Achievements (click to expand)</b></summary>
+<br/>
+
+- 🎓 **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI (Apr 2026)
+- 🛠️ **ServiceNow Administration Fundamentals** — ServiceNow
+- 🤖 **Agentic AI Day Certification** — AI Community Programme
+- 📊 **Data Visualization** — Kaggle (Sep 2025)
+- 🐼 **Pandas** — Kaggle (Aug 2025)
+- 🏅 **AVISHKAAR Season 3** — National Level Hackathon, AITAM
+- 💡 **Think-A-Thon** — E-Summit '26
+- 🚀 **Tech Manthan 2026 Ideathon** — Presented KARVEX, recognized for AI-driven career tooling
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                       FOOTER                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anand-esc&label=Profile%20Views&color=00F5D4&style=for-the-badge"/>
+
+<br/><br/>
+
+### 💬 *"Code is never finished. It only becomes slightly less terrible over time."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
 </div>
