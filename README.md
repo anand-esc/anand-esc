@@ -78,11 +78,11 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top" width="50%" bgcolor="#0d0d0d">
       <h3 align="center">Google Gemini Student Ambassador '26</h3>
       <p>Selected for the <strong>2026 cohort</strong> of Google's Gemini Student Ambassador programme — representing <strong>Sri Sri University</strong> as a campus AI evangelist. Driving AI literacy by embedding <strong>Gemini, Google Canvas, and Veo</strong> into student workflows, on the principle of <em>"by the students, for the students."</em></p>
     </td>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top" width="50%" bgcolor="#0d0d0d">
       <h3 align="center">GirlScript Summer of Code (GSSoC) '26</h3>
       <p>Open Source Contributor in the <strong>AI Agents Track</strong> — building and shipping production-ready apps in <strong>RAG architectures, LLM applications, and full-stack engineering</strong>. Reviewing PRs, writing docs, and onboarding new contributors.</p>
     </td>
