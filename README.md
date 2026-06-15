@@ -33,55 +33,9 @@
 
 ## 🧠 `whoami`
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```bash
-┌──(suryansh@arch)-[~/portfolio]
-└─$ cat about_me.txt
-
-I'm a Backend AI Engineer, ML Researcher, and a
-Google Gemini Student Ambassador '26 — obsessed
-with Agentic AI systems, RAG pipelines, and
-fine-tuning LLMs that actually solve real problems.
-
-My entire stack is anchored in Python, Linux, and
-the Gemini API. I don't just use tools — I want to
-own and understand every moving part of the systems
-I build.
-
-That's why I ditched the "standard" OS experience.
-I moved fully into the Linux ecosystem — hopping
-across Fedora, EndeavourOS (Arch), and Ubuntu — to
-shape my environment exactly the way I think.
-
-My approach is simple: iterate fast, break things
-on purpose, fix them properly, and never repeat
-the same mistake twice. The end goal isn't just
-"working code" — it's sustainable AI infrastructure
-that solves problems that matter.
-
-┌──(suryansh@arch)-[~/portfolio]
-└─$ █
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="100%" style="border-radius:12px"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Currently_Building-Agentic_AI_%2F_RAG_Systems-00F5D4?style=flat-square&logo=robot&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/Daily_Driver-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/Looking_to_Collab-AI%2FML_%26_Full--Stack-FF6B6B?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/anand-esc/anand-esc/main/assets/terminal.svg" width="100%"/>
+</div>
 
 ---
 
@@ -230,27 +184,10 @@ Lightweight pure-Python RAG pipeline that demystifies legal documents — built 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anand-esc/anand-esc/output/github-contribution-grid-snake-dark.svg" alt="snake game contribution graph"/>
+<img src="https://raw.githubusercontent.com/anand-esc/anand-esc/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake game contribution graph"/>
 
 > *Yes, that snake is eating my actual commit history. Add the workflow below to make it eat yours too.*
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS                        -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 📊 System Metrics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-esc&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" height="170"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anand-esc&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5D4&line=00F5D4&point=FF6B6B" width="98%"/>
 </div>
 
 ---
