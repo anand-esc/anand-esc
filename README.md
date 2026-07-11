@@ -28,13 +28,19 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════ -->
-<!--               LIVE TERMINAL "ABOUT ME"               -->
+<!--               NEOFETCH-STYLE "ABOUT ME"               -->
 <!-- ═══════════════════════════════════════════════════ -->
 
 ## `whoami`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anand-esc/anand-esc/main/assets/terminal.svg" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-esc/anand-esc/main/assets/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-esc/anand-esc/main/assets/light_mode.svg">
+  <img src="https://raw.githubusercontent.com/anand-esc/anand-esc/main/assets/dark_mode.svg" width="100%" alt="Suryansh Anand — neofetch-style profile card"/>
+</picture>
+
 </div>
 
 ---
@@ -57,6 +63,43 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                  -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## Featured Builds
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">FinFlow AI</h3>
+        <p align="center">Multi-agent fintech platform automating education-loan onboarding with LangChain &amp; LangGraph.</p>
+        <p align="center"><a href="https://github.com/anand-esc/FinFlow"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=FinFlow&theme=dark&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" /></a></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">KARVEX Resume Architect</h3>
+        <p align="center">Cutting-edge AI-driven platform for architecting professional resumes.</p>
+        <p align="center"><a href="https://github.com/anand-esc/karvex-resume-architect"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=karvex-resume-architect&theme=dark&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" /></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">SignLingo</h3>
+        <p align="center">Real-time ISL learning platform combining 3D hand-tracking with a RAG-powered AI tutor.</p>
+        <p align="center"><a href="https://github.com/anand-esc/SignLingo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=SignLingo&theme=dark&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" /></a></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">LawGeeks</h3>
+        <p align="center">Lightweight pure-Python RAG pipeline that demystifies legal documents.</p>
+        <p align="center"><a href="https://github.com/anand-esc/LawGeeks"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=anand-esc&repo=LawGeeks&theme=dark&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" /></a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
