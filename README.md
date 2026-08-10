@@ -31,7 +31,7 @@ ML Libraries  : LangChain, LangGraph, Scikit-Learn, Pandas, NumPy, HuggingFace
 Web/Full Stack: React, Node.js, FastAPI, Tailwind CSS, REST APIs, PWA
 AI Platforms  : Google Gemini API, OpenAI API, IBM Granite / SkillBuild
 Cloud/Storage : GCP, Firebase, Supabase, Cloudinary
-DevOps        : Git, GitHub, Docker, Jenkins, CI/CD, Linux (Arch/EndeavourOS)
+DevOps        : Git, GitHub, Docker, Jenkins, CI/CD, Linux (Arch/EndeavourOS/Fedora/Ubuntu)
 ```
 
 **— Certifications —**
