@@ -44,9 +44,6 @@ Data Visualization & Pandas — Kaggle
 
 <br>
 
-<div align="center">
-<sub>Constantly Learning & Forever Adapting.</sub>
-</div>
 
 <!-- 3D Contribution Graph -->
 <h3><code>suryansh@contributions</code></h3>
@@ -57,3 +54,8 @@ Data Visualization & Pandas — Kaggle
 </picture>
 
 <br>
+
+---
+<div align="center">
+<sub>Constantly Learning & Forever Adapting.</sub>
+</div>
