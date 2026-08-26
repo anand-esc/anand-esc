@@ -14,7 +14,7 @@ Goal          : "Apply GenAI to solve high-impact societal problems."
 **— Currently —**
 ```
 Ambassador    : Google Gemini Student Ambassador @ Google
-Contributing  : AI Agents & Open Source Tracks @ GSSoC 2026
+Contributing  : AI Agents & Open Source Tracks @ GSSoC 2026 || Citizen Scientist @IASC
 ```
 
 **— Experience —**
@@ -25,7 +25,7 @@ ServiceNow Platform & Agentic AI Intern    @ ServiceNow (via SmartBridge)
 
 **— Tech Stack —**
 ```
-Languages     : Python, SQL, C++, JavaScript, HTML5, CSS3
+Languages     : Python, SQL, JavaScript, HTML5, CSS3
 AI / ML       : LLMs, RAG, Agentic & Multi-Agent Systems, GANs, Prompt Engineering
 ML Libraries  : LangChain, LangGraph, Scikit-Learn, Pandas, NumPy, HuggingFace
 Web/Full Stack: React, Node.js, FastAPI, Tailwind CSS, REST APIs, PWA
