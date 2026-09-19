@@ -33,7 +33,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<samp>about</samp>
+**<samp>about</samp>**
 
 Building at the intersection of Generative AI,
 Multi-Agent Systems, and societal impact.
@@ -47,7 +47,7 @@ Previously interned at 1M1B Foundation
 </td>
 <td valign="top" width="50%">
 
-<samp>stack</samp>
+**<samp>stack</samp>**
 
 **core** &mdash; Python, JavaScript, SQL
 
