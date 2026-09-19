@@ -66,17 +66,27 @@ Previously interned at 1M1B Foundation
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&hide_title=true&hide_rank=true&text_color=8b949e&icon_color=8b949e" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=github-dark-dimmed&hide_border=true&background=00000000&ring=8b949e&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide_title=true&hide_rank=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true" height="150" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=github-dark-dimmed&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=default&hide_border=true" height="150" />
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anand-esc&bg_color=00000000&color=8b949e&line=c9d1d9&point=8b949e&area=true&area_color=1a1b27&hide_border=true&custom_title=" height="200" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=default&hide_border=true&langs_count=8" width="350" />
+  </picture>
 </div>
 
-<div align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=anand-esc&style=flat-square&color=1a1b27&label=" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anand-esc&style=flat-square&color=1a1b27&label=" />
 </div>
