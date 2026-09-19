@@ -67,21 +67,8 @@ Previously interned at 1M1B Foundation
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide_title=true&hide_rank=true&bg_color=0d1117" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true" height="150" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=github-dark-dimmed&hide_border=true&background=0d1117" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=default&hide_border=true" height="150" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&bg_color=0d1117" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-esc&layout=compact&theme=default&hide_border=true&langs_count=8" width="350" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=default&hide_border=true" height="160" />
   </picture>
 </div>
 
