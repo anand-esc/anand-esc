@@ -1,59 +1,82 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Suryansh+Anand;AI+%2F+ML+Engineer;Full+Stack+AI+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1500&color=C9D1D9&center=true&vCenter=true&repeat=true&width=435&lines=Suryansh+Anand" alt="Suryansh Anand" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:#)
+<samp>AI/ML Engineer . Full Stack AI Developer . Google Gemini Student Ambassador</samp>
+
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=c9d1d9" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter-1a1b27?style=flat-square&logo=x&logoColor=c9d1d9" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=c9d1d9" />
+</a>
+<a href="mailto:#">
+  <img src="https://img.shields.io/badge/Mail-1a1b27?style=flat-square&logo=gmail&logoColor=c9d1d9" />
+</a>
 
 </div>
 
----
+<br>
 
-```yaml
-name: Suryansh Anand
-located_in: Cuttack, Odisha, India
-education: B.Tech CSE (AI & ML) — Sri Sri University, 3rd Year
-current_role: Google Gemini Student Ambassador
-
-fields_of_interest: [Generative AI, Multi-Agent Systems, Responsible Innovation]
-
-currently_working_on: [GSSoC 2026, IASC Citizen Science]
+```
+ B.Tech CSE (AI & ML)  .  Sri Sri University  .  3rd Year  .  Cuttack, India
 ```
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<samp>about</samp>
+
+Building at the intersection of Generative AI,
+Multi-Agent Systems, and societal impact.
+
+Currently contributing to GSSoC 2026 and
+working as a Citizen Scientist at IASC.
+
+Previously interned at 1M1B Foundation
+(AICTE x IBM) and ServiceNow (SmartBridge).
+
+</td>
+<td valign="top" width="50%">
+
+<samp>stack</samp>
+
+**core** &mdash; Python, JavaScript, SQL
+
+**ai** &mdash; LangChain, LangGraph, HuggingFace, RAG, GANs
+
+**platforms** &mdash; Gemini API, OpenAI API, IBM Granite
+
+**web** &mdash; React, Node.js, FastAPI, Tailwind
+
+**infra** &mdash; GCP, Firebase, Docker, CI/CD, Linux
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&hide_title=true&hide_rank=true&text_color=8b949e&icon_color=8b949e" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=github-dark-dimmed&hide_border=true&background=00000000&ring=8b949e&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" height="150" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-esc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true&hide_rank=true&icon_color=A855F7" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anand-esc&theme=tokyonight&hide_border=true&background=00000000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anand-esc&bg_color=00000000&color=8b949e&line=c9d1d9&point=8b949e&area=true&area_color=1a1b27&hide_border=true&custom_title=" height="200" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anand-esc/anand-esc/main/profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anand-esc/anand-esc/main/profile-3d-contrib/profile-gitblock.svg">
-  <img alt="3D Contributions" src="https://raw.githubusercontent.com/anand-esc/anand-esc/main/profile-3d-contrib/profile-night-view.svg" width="100%">
-</picture>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anand-esc&style=flat-square&color=A855F7&label=views" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=anand-esc&style=flat-square&color=1a1b27&label=" />
 </div>
