@@ -13,12 +13,20 @@
   <a href="mailto:suryansh.anand.dev@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1b27?style=flat-square&logo=gmail&logoColor=c9d1d9" alt="Mail" /></a>
 </p>
 
+<p align="center">
+  Building at the intersection of Generative AI, Multi-Agent Systems, and societal impact.<br>
+  Contributing to GSSoC 2026 &middot; Citizen Scientist at IASC &middot; Previously at 1M1B Foundation (AICTE x IBM) and ServiceNow (SmartBridge)
+</p>
+
 ```
 B.Tech CSE (AI & ML)  .  Sri Sri University  .  3rd Year  .  Cuttack, India
-```
 
-| **`about`**<br>Building at the intersection of Generative AI, Multi-Agent Systems, and societal impact.<br>Currently contributing to GSSoC 2026 and working as a Citizen Scientist at IASC.<br>Previously interned at 1M1B Foundation (AICTE x IBM) and ServiceNow (SmartBridge). | **`stack`**<br>**core** — Python, JavaScript, SQL<br>**ai** — LangChain, LangGraph, HuggingFace, RAG, GANs<br>**platforms** — Gemini API, OpenAI API, IBM Granite<br>**web** — React, Node.js, FastAPI, Tailwind<br>**infra** — GCP, Firebase, Docker, CI/CD, Linux |
-| --- | --- |
+core       Python, JavaScript, SQL
+ai         LangChain, LangGraph, HuggingFace, RAG, GANs
+platforms  Gemini API, OpenAI API, IBM Granite
+web        React, Node.js, FastAPI, Tailwind
+infra      GCP, Firebase, Docker, CI/CD, Linux
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anand-esc&style=flat-square&color=ff4fa3&label=PROFILE+VIEWS" alt="Profile views" />
