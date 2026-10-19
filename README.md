@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-balance.svg" alt="Hello, this is Suryansh Anand - AI and ML Developer" width="100%" />
+  <img src="assets/banner-bw.svg" alt="Hello, this is Suryansh Anand - AI and ML Developer" width="100%" />
 </p>
 
 <p align="center">
