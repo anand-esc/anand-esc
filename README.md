@@ -19,22 +19,22 @@
 
 ---
 
-### 📡 LIFETIME GITHUB CODE INTELLIGENCE & TELEMETRY
+### LIFETIME GITHUB CODE INTELLIGENCE & TELEMETRY
 
 <p align="center">
   <img src="assets/loc-metrics.svg" alt="Verified Lifetime Lines of Code: 1,325,472+ Lines Inputted" width="100%" />
 </p>
 
 <p align="center">
-  <i>⚡ Auto-calculated &amp; verified across all repositories via automated CI/CD pipeline.</i>
+  <i>Auto-calculated &amp; verified across all repositories via automated CI/CD pipeline.</i>
 </p>
 
 ---
 
-### 💻 SYSTEM DIAGNOSTICS (`whoami.sh`)
+### SYSTEM DIAGNOSTICS (`whoami.sh`)
 
 <details open>
-<summary><b>🔍 Executive Summary &amp; System Specs</b></summary>
+<summary><b>Executive Summary &amp; System Specs</b></summary>
 <br/>
 
 ```ini
@@ -48,15 +48,15 @@ Focus Areas = Multi-Agent Swarms, Generative Adversarial Networks (GANs), Enterp
 Philosophy  = "The best way to predict the future is to engineer it."
 ```
 
-- 🚀 **Specializing in**: Autonomous multi-agent pipelines, generative models (PyTorch GANs, Latent Space Exploration), and enterprise-grade vector RAG engines.
-- 🌐 **Open Source & Research**: Contributing to **GSSoC 2026** and working as a **Citizen Scientist at IASC** (International Astronomical Search Collaboration).
-- 🏆 **Track Record**: Previously engineered solutions with **1M1B Foundation (AICTE x IBM)** and **ServiceNow (SmartBridge)**.
+- **Specializing in**: Autonomous multi-agent pipelines, generative models (PyTorch GANs, Latent Space Exploration), and enterprise-grade vector RAG engines.
+- **Open Source & Research**: Contributing to **GSSoC 2026** and working as a **Citizen Scientist at IASC** (International Astronomical Search Collaboration).
+- **Track Record**: Previously engineered solutions with **1M1B Foundation (AICTE x IBM)** and **ServiceNow (SmartBridge)**.
 
 </details>
 
 ---
 
-### 🧠 TECHNICAL ARSENAL & CORE COMPETENCIES
+### TECHNICAL ARSENAL & CORE COMPETENCIES
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ Philosophy  = "The best way to predict the future is to engineer it."
     <th width="75%" align="left">Technologies &amp; Frameworks</th>
   </tr>
   <tr>
-    <td><b>🧠 AI / Deep Learning</b></td>
+    <td><b>AI / Deep Learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
@@ -77,7 +77,7 @@ Philosophy  = "The best way to predict the future is to engineer it."
     </td>
   </tr>
   <tr>
-    <td><b>🌐 LLM Platforms &amp; APIs</b></td>
+    <td><b>LLM Platforms &amp; APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -86,7 +86,7 @@ Philosophy  = "The best way to predict the future is to engineer it."
     </td>
   </tr>
   <tr>
-    <td><b>⚡ Languages &amp; Systems</b></td>
+    <td><b>Languages &amp; Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -97,7 +97,7 @@ Philosophy  = "The best way to predict the future is to engineer it."
     </td>
   </tr>
   <tr>
-    <td><b>🛠️ Full-Stack &amp; Frameworks</b></td>
+    <td><b>Full-Stack &amp; Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -108,7 +108,7 @@ Philosophy  = "The best way to predict the future is to engineer it."
     </td>
   </tr>
   <tr>
-    <td><b>☁️ DevOps, Cloud &amp; Infra</b></td>
+    <td><b>DevOps, Cloud &amp; Infra</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
@@ -122,7 +122,7 @@ Philosophy  = "The best way to predict the future is to engineer it."
 
 ---
 
-### 🌐 3D SPATIAL CONTRIBUTION MATRIX
+### 3D SPATIAL CONTRIBUTION MATRIX
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
@@ -136,7 +136,7 @@ Philosophy  = "The best way to predict the future is to engineer it."
 
 ---
 
-### 📬 TRANSMISSION PORTAL & CONNECTIVITY
+### TRANSMISSION PORTAL & CONNECTIVITY
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suryansh-anand">
