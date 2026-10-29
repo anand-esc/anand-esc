@@ -65,6 +65,3 @@ Previously interned at 1M1B Foundation
 
 <br>
 
-<div align="center">
-  <img src="assets/loc-metrics.svg" alt="Verified Lifetime Lines of Code: 1,325,472+ Lines Inputted" width="100%" />
-</div>
