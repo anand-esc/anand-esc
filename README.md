@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner-balance.svg" alt="Suryansh Anand - AI & ML Developer" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/anand-esc">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=860&height=46&lines=Building+Autonomous+AI+Agents+%26+Generative+Systems;1%2C325%2C472%2B+Lines+of+Code+Inputted+on+GitHub;PyTorch+%7C+GANs+%7C+RAG+%7C+Multi-Agent+Swarm+Architectures;Google+Gemini+Student+Ambassador;404+Sleep+Not+Found+%7C+Arch+Linux+Enthusiast" alt="Typing Headline" />
   </a>
@@ -13,6 +9,12 @@
   <a href="https://github.com/anand-esc"><img src="assets/loc-badge.svg" height="28" alt="Lines of Code" /></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Kernel-Arch_Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117" alt="Arch Linux" /></a>
   <a href="https://www.linkedin.com/in/suryansh-anand"><img src="https://img.shields.io/badge/Gemini-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Google Gemini Ambassador" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suryansh-anand" title="Click to connect on LinkedIn">
+    <img src="assets/about-terminal.svg" alt="Terminal Console - Suryansh Anand" width="100%" />
+  </a>
 </p>
 
 ---
@@ -30,12 +32,6 @@
 ---
 
 ### 💻 SYSTEM DIAGNOSTICS (`whoami.sh`)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suryansh-anand" title="Click to connect on LinkedIn">
-    <img src="assets/about-terminal.svg" alt="Terminal Console - Suryansh Anand" width="100%" />
-  </a>
-</p>
 
 <details open>
 <summary><b>🔍 Executive Summary &amp; System Specs</b></summary>
