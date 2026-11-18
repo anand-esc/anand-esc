@@ -57,21 +57,25 @@ heat = [[0] * COLS for _ in range(ROWS)]
 sparks = []                         # [x, y, vx, vy, life]
 
 
-# hot spots that wander along the fuel line; the gaps between them are what
+# evenly spaced hot spots that sway along the fuel line; the gaps between them are what
 # turn a wall of heat into separate tongues of flame
 import math
-SPOTS = [[rng.uniform(0, COLS), rng.uniform(-0.35, 0.35), rng.uniform(5.0, 9.0),
-          rng.uniform(0, 6.28), rng.uniform(0.15, 0.35)] for _ in range(11)]
+N_SPOTS = 12
+SPOTS = [[(i + 0.5) * COLS / N_SPOTS + rng.uniform(-2, 2),   # anchor
+          rng.uniform(2.0, 4.0),                             # sway distance
+          rng.uniform(4.0, 6.5),                             # width
+          rng.uniform(0, 6.28),                              # phase
+          rng.uniform(0.15, 0.35)]                           # pulse speed
+         for i in range(N_SPOTS)]
 
 
 def step(t):
     base = heat[ROWS - 1]
-    for sp in SPOTS:
-        sp[0] = (sp[0] + sp[1]) % COLS
+    centres = [(a + amp * math.sin(t * sp_ * 0.6 + ph), w, ph, sp_) for a, amp, w, ph, sp_ in SPOTS]
     for x in range(COLS):          # fuel: strong under hot spots, embers between
         f = 0.0
-        for cx, _, w, ph, sp_ in SPOTS:
-            d = min(abs(x - cx), COLS - abs(x - cx))
+        for cx, w, ph, sp_ in centres:
+            d = abs(x - cx)
             pulse = 0.75 + 0.25 * math.sin(t * sp_ + ph)
             f = max(f, pulse * math.exp(-(d / w) ** 2))
         h = 9 + f * (MAXH - 9)
